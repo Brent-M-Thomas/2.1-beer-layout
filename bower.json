@@ -1,0 +1,20 @@
+{
+  "name": "2.1",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Brent-M-Thomas/2.1-beer-layout",
+  "authors": [
+    "Brent Thomas <brentmt24@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "competent-meyerweb-reset": "~2.0.20110126",
+    "fontawesome": "~4.3.0"
+  }
+}
